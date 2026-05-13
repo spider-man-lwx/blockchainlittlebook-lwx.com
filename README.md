@@ -1,3 +1,10 @@
+# 李万鑫的网站
+
+## 文章列表
+
+- [我的第一篇文章](posts/article-1.md)
+- [我的第二篇文章](posts/article-2.md)
+- [关于本站](about.md)
 # 区块链小白书
 
 [李笑来](http://lixiaolai.com)（著）&copy; 2019
