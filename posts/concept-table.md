@@ -1,1 +1,1 @@
-# [大周期](./posts/concept-table-folder/concept-1.md)
+# [大周期](posts/concept-table-folder/concept-1.md)
