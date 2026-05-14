@@ -4,5 +4,5 @@
 - [投资](/posts/concepttablefolder/concept2.md)
 - [长期](/posts/concepttablefolder/concept3.md)
 
-[返回首页](./README.md)
+[返回首页](../../README.md)
 
