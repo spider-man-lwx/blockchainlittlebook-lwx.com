@@ -2,7 +2,7 @@
 
 ## 概念表
 
--[进入概念表](./posts/concept-table-folder/index.md)
+-[进入概念表](posts/concept-table-folder/index.md)
 
 ## 关系表
 
