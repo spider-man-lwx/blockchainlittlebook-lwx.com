@@ -16,4 +16,4 @@ a,b,c,d在p,q上是相似的；a,b,c具有r；所以d可能具有r。
 
 在识别和评价类比论证时，转换成以上形式很有帮助。
 
--[好玩的类比收集]
+-[好玩的类比收集](/posts/arcticlelist/logic/analogycollection.md)
