@@ -3,4 +3,6 @@
 
 -[教是最好的学习方法](/posts/arcticlelist/arcticle2.md)
 
+-[逻辑学](/posts/arcticlelist/logic/index.md)
+
 [返回首页](../../README.md)
