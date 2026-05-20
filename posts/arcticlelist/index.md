@@ -7,6 +7,8 @@
 
 -[里程碑](/posts/arcticlelist/arcticle6.md)
 
+-[产品思考](/posts/arcticlelist/arcticle7.md)
+
 -[逻辑学](/posts/arcticlelist/logic/index.md)
 
 [返回首页](../../README.md)
