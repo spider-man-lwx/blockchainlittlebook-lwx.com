@@ -13,6 +13,9 @@
 
 -[故事创作总结](/posts/arcticlelist/arcticle9.md)
 
+-[写作思考](/posts/arcticlelist/arcticle10.md)
+
 -[逻辑学](/posts/arcticlelist/logic/index.md)
+
 
 [返回首页](../../README.md)
