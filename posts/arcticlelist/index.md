@@ -9,6 +9,10 @@
 
 -[产品思考](/posts/arcticlelist/arcticle7.md)
 
+-[群像剧-去中心化](/posts/arcticlelist/arcticle8.md)
+
+-[故事创作总结](/posts/arcticlelist/arcticle9.md)
+
 -[逻辑学](/posts/arcticlelist/logic/index.md)
 
 [返回首页](../../README.md)
