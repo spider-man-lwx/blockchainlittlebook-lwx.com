@@ -25,6 +25,11 @@
     line-height:1.8;
     text-align:center;
     text-shadow:0 2px 8px rgba(0,0,0,.65)
+}section.cover blockquote p{
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 500;
+    text-shadow: 0 2px 6px rgba(0,0,0,.5);
 }section.cover ul{line-height:1.8;list-style-type:none;margin:1em auto;max-width:500px;padding:0}section.cover .cover-main>p:last-child a{
     display:inline-block;
     padding:14px 34px;
