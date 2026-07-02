@@ -19,17 +19,12 @@
     text-align:center;
     text-shadow:1px 1px 3px rgba(0,0,0,.45)
 }section.cover h1 a{display:block}section.cover h1 small{bottom:-.4375rem;font-size:1rem;position:absolute}section.cover blockquote{
-    color:rgba(255,255,255,.95);
+    color:#fff;
     font-size:2rem;
-    font-weight:500;
-    line-height:1.8;
+    font-weight:600;
+    line-height:1.4;
     text-align:center;
     text-shadow:0 2px 8px rgba(0,0,0,.65)
-}section.cover blockquote p{
-    color: #ffffff |important;
-    font-size: 2rem;
-    font-weight: 500;
-    text-shadow: 0 2px 6px rgba(0,0,0,.5);
 }section.cover ul{line-height:1.8;list-style-type:none;margin:1em auto;max-width:500px;padding:0}section.cover .cover-main>p:last-child a{
     display:inline-block;
     padding:14px 34px;
