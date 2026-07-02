@@ -26,7 +26,7 @@
     text-align:center;
     text-shadow:0 2px 8px rgba(0,0,0,.65)
 }section.cover blockquote p{
-    color: #ffffff;
+    color: #ffffff |important;
     font-size: 2rem;
     font-weight: 500;
     text-shadow: 0 2px 6px rgba(0,0,0,.5);
