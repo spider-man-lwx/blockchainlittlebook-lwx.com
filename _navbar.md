@@ -1,2 +1,2 @@
 * [首页](/)
-* [日志](https://github.com/xiaolai/blockchainlittlebook.com/issues)
+* [日志](https://github.com/spider-man-lwx/blockchainlittlebook-lwx.com/tree/master/posts/blog)
