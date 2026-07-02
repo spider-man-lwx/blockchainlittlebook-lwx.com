@@ -17,5 +17,7 @@
 
 -[逻辑学](/posts/arcticlelist/logic/index.md)
 
+-[同义替换](/posts/arcticlelist/arcticle12.md)
+
 
 [返回首页](../../README.md)
