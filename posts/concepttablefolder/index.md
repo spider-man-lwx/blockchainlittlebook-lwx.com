@@ -6,6 +6,8 @@
 - [4.财富自由](/posts/concepttablefolder/concept4.md)
 - [5.洗脑](/posts/concepttablefolder/concept5.md)
 - [6.祛魅](/posts/concepttablefolder/concept6.md)
+- [7.感恩](/posts/concepttablefolder/concept7.md)
+- [8.](/posts/concepttablefolder/concept8.md)
 - [9.元认知能力](/posts/concepttablefolder/concept9.md)
 
 [返回首页](../../README.md)
