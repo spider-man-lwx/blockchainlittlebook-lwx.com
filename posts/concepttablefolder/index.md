@@ -13,7 +13,8 @@
 - [1.博弈论](/posts/concepttablefolder/concept.md)
 - [2.纳什均衡](/posts/concepttablefolder/concept.md)
 - [3.帕累托改进](/posts/concepttablefolder/concept.md)
-- [3.帕累托最优](/posts/concepttablefolder/concept.md)
+- [4.帕累托最优](/posts/concepttablefolder/concept.md)
+- [5.零和博弈](/posts/concepttablefolder/concept.md)
 ## 逻辑学
 - [1.](/posts/concepttablefolder/concept.md)
 - [2.](/posts/concepttablefolder/concept.md)
