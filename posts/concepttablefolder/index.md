@@ -20,6 +20,8 @@
 - [2.](/posts/concepttablefolder/concept.md)
 - [3.](/posts/concepttablefolder/concept.md)
 - [3.](/posts/concepttablefolder/concept.md)
+## 思考
+- [1.思考方式](/posts/concepttablefolder/concept10.md)
 
 [返回首页](../../README.md)
 
