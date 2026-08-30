@@ -9,6 +9,16 @@
 - [7.感恩](/posts/concepttablefolder/concept7.md)
 - [8.努力](/posts/concepttablefolder/concept8.md)
 - [9.元认知能力](/posts/concepttablefolder/concept9.md)
+## 博弈论
+- [1.博弈论](/posts/concepttablefolder/concept.md)
+- [2.纳什均衡](/posts/concepttablefolder/concept.md)
+- [3.帕累托改进](/posts/concepttablefolder/concept.md)
+- [3.帕累托最优](/posts/concepttablefolder/concept.md)
+## 逻辑学
+- [1.](/posts/concepttablefolder/concept.md)
+- [2.](/posts/concepttablefolder/concept.md)
+- [3.](/posts/concepttablefolder/concept.md)
+- [3.](/posts/concepttablefolder/concept.md)
 
 [返回首页](../../README.md)
 
